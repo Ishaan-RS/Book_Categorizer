@@ -5,6 +5,6 @@ This NN model gets trained on custom generated book dataset and uses text vector
 
 It was inspired by the well-known Language Toxicity NN model.
 
-Everything is done, just REMEMBER:- DO ADD THE PATH TO THE DATASET IN THE FIRST LINE. Rest is done.
+Everything is done, just REMEMBER:- DO ADD THE PATH TO THE DATASET IN THE BEGINNING. Rest is done.
 
-Enjoy👍
+Happy Learning👍
