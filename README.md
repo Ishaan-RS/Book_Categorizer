@@ -9,7 +9,7 @@ This repository contains a Recurrent Neural Network (RNN) model utilizing Long S
 
 ## Setup:
 * **Dataset Path**: Before running the model, make sure to specify the path to your dataset at the beginning of the code. This is crucial for the model to load and train on the data correctly.
-* **Dependencies**: Ensure you have all necessary libraries installed, which can typically be done via requirements.txt (if provided).
+* **Dependencies**: Ensure you have all necessary libraries installed, which can typically be done via requirements.txt.
 
 ## Inspiration:
 This model was inspired by the well-known Language Toxicity Neural Network model, adapting similar principles to categorize books based on textual information.
